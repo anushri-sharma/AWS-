@@ -8,3 +8,5 @@
 
 3. [Regions and Availability Zones](https://aws.amazon.com/about-aws/global-infrastructure/regions_az/)
    - View a complete list of AWS Regions.
+
+4. Instance types are named based on their instance family and instance size. For information about these naming conventions, refer to [Amazon EC2 instance type naming conventions](https://docs.aws.amazon.com/ec2/latest/instancetypes/instance-type-names.html).
