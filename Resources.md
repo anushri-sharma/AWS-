@@ -101,3 +101,17 @@ AWS Outposts extends AWS infrastructure and services to on-premises locations fo
 25. [Choosing a modern application strategy](https://docs.aws.amazon.com/modern-apps-strategy-on-aws-how-to-choose/?utm_campaign=the-innovation-foundation-part-3-what-is-machine-learning-and-how-to-use-it&utm_content=body-text&utm_medium=blog&utm_source=spkaa)
 
 The AWS Decision Guide for Modern Application Strategy helps organizations determine the most suitable development approach—serverless or Kubernetes—based on their operational model, team structure, and workload requirements.
+
+---
+
+26. [AWS Global Infrastructure](https://aws.amazon.com/about-aws/global-infrastructure/)
+
+Learn more about the AWS Global Infrastructure.
+
+27. [AWS for the Edge](https://aws.amazon.com/edge/?nc2=type_a)
+
+Learn more about AWS edge locations and edge networking.
+
+28. [AWS CloudFormation](https://aws.amazon.com/cloudformation/)
+
+Learn more about the infrastructure as code service, CloudFormation.
