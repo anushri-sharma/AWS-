@@ -1,6 +1,6 @@
 # AWS Certified Cloud Practitioner
 ---
-# Module 1 : Introduction to Cloud:
+# Module 1 - Introduction to Cloud:
 
 1. [What is Cloud Computing?](https://aws.amazon.com/what-is-cloud-computing/?nc1=f_cc)
    - Learn more about the basics of cloud computing.
@@ -14,7 +14,7 @@
 4. Instance types are named based on their instance family and instance size. For information about these naming conventions, refer to [Amazon EC2 instance type naming conventions](https://docs.aws.amazon.com/ec2/latest/instancetypes/instance-type-names.html).
 
 
-# Module 2 Compute Summary:
+# Module 2 - Compute:
 
 5. [Compute on AWS](https://aws.amazon.com/products/compute/)
 This resource provides an overview of the different cloud computing services offered by AWS.
@@ -60,7 +60,7 @@ Amazon SNS is a messaging service for sending notifications to users or other ap
 Amazon SQS decouples application components through message queuing, storing and processing messages reliably.
 
 ---
-# Module 3: Exploring Compute Services
+# Module 3 - Exploring Compute Services
 
 16. [Containers on AWS](https://aws.amazon.com/containers/)
 
@@ -103,7 +103,7 @@ AWS Outposts extends AWS infrastructure and services to on-premises locations fo
 The AWS Decision Guide for Modern Application Strategy helps organizations determine the most suitable development approach—serverless or Kubernetes—based on their operational model, team structure, and workload requirements.
 
 ---
-# Module 4: 
+# Module 4 - Going Global: 
 26. [AWS Global Infrastructure](https://aws.amazon.com/about-aws/global-infrastructure/)
 
 Learn more about the AWS Global Infrastructure.
@@ -118,7 +118,7 @@ Learn more about the infrastructure as code service, CloudFormation.
 
 ---
 
-# Module 5: Networking:
+# Module 5 - Networking:
 
 29. [Amazon Virtual Private Cloud](https://aws.amazon.com/vpc/)
 
