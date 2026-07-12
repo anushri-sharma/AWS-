@@ -103,7 +103,7 @@ AWS Outposts extends AWS infrastructure and services to on-premises locations fo
 The AWS Decision Guide for Modern Application Strategy helps organizations determine the most suitable development approach—serverless or Kubernetes—based on their operational model, team structure, and workload requirements.
 
 ---
-
+# Module 4: 
 26. [AWS Global Infrastructure](https://aws.amazon.com/about-aws/global-infrastructure/)
 
 Learn more about the AWS Global Infrastructure.
@@ -115,3 +115,75 @@ Learn more about AWS edge locations and edge networking.
 28. [AWS CloudFormation](https://aws.amazon.com/cloudformation/)
 
 Learn more about the infrastructure as code service, CloudFormation.
+
+---
+
+# Module 5: Networking:
+
+29. [Amazon Virtual Private Cloud](https://aws.amazon.com/vpc/)
+
+Amazon VPC is a service to provision a logically isolated section of the AWS Cloud where you can launch AWS resources in a virtual network that you define.
+
+30. [Subnet](https://docs.aws.amazon.com/vpc/latest/userguide/configure-subnets.html)
+
+A subnet is a section of a VPC that can contain resources and is used to organize your resources. They can contain be either public or private.
+
+31. [Internet gateway](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Internet_Gateway.html)
+
+An internet gateway is a connection between a VPC and the internet. It allows public traffic from the internet to access your VPC.
+
+32. [Virtual private gateway](https://skillbuilder.aws/renderer/?module_id=K457BUCF7F%3A001.000.000&product_id=8D79F3AVR7%3A002.002.003&registration_id=3a5edca9-7621-5cd1-8fb0-7734f046051b&referrer=https%3A%2F%2Fskillbuilder.aws%2Flearn%2F94T2BEN85A%2Faws-cloud-practitioner-essentials%2F8D79F3AVR7&navigation=digital)
+
+A virtual private gateway is the component that allows protected internet traffic to enter into the VPC. It allows a connection between your VPC and a private network only if it is coming from an approved network.
+
+33. [AWS Client VPN](https://aws.amazon.com/vpn/client-vpn/)
+
+Amazon Client VPC is a networking service you can use to connect your remote workers and on-premises networks to the cloud. It is a fully managed, elastic VPN service that automatically scales up or down based on user demand.
+
+34. [AWS Site-to-Site VPN](https://aws.amazon.com/vpn/site-to-site-vpn/)
+
+AWS Site-to-Site VPN creates a secure connection between your data center or branch offices and your AWS Cloud resources.
+
+35. [AWS PrivateLink](https://docs.aws.amazon.com/vpc/latest/privatelink/what-is-privatelink.html)
+
+AWS PrivateLink is a highly available, scalable technology that you can use to privately connect your VPC to services and resources as though they were in your VPC.
+
+36. [AWS Direct Connect](https://aws.amazon.com/directconnect/)
+
+AWS Direct Connect is a service that provides a dedicated private connection between your data center and a VPC.
+
+37. [Network Access Control List (network ACL)](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-network-acls.html)
+
+A network ACL allows or denies specific inbound or outbound traffic at the subnet level using stateless packet filtering.
+
+38. [Security groups](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-groups.html)
+
+Security groups control the inbound and outbound traffic for a resource at the instance level using stateful packet filtering.
+
+39. [Domain Name System (DNS)](https://aws.amazon.com/route53/what-is-dns/)
+
+DNS translates human readable domain names to machine readable IP addresses (for example, 192.0.2.0).
+
+40. [Amazon Route 53](https://aws.amazon.com/route53/)
+
+Route 53 is a scalable and reliable DNS web service that helps developers and businesses route end users to internet applications, whether they’re hosted in AWS or elsewhere. It also supports domain registration, health checks, and advanced traffic routing policies.
+
+41. [Amazon CloudFront](https://aws.amazon.com/cloudfront/)
+
+CloudFront is a web service that speeds up distribution of your web content to your users through a worldwide network of data centers called edge locations. It securely delivers content with low latency and high transfer speeds.
+
+42. [AWS Global Accelerator](https://aws.amazon.com/global-accelerator/)
+
+Global Accelerator is a networking service that helps improve the availability and performance of applications for global users by routing traffic through the AWS global network. It helps improve application availability, performance, and security.
+
+43. [Amazon Transit Gateway](https://aws.amazon.com/transit-gateway/)
+
+Amazon VPC Transit Gateways is a network transit hub used to interconnect VPCs and on-premises networks.
+
+44. [NAT Gateway](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html)
+
+Network Address Translation (NAT) gateway allows instances in a private subnet to connect with services outside your VPC. External services can't initiate a connection with those instances.
+
+45. [API Gateway](https://aws.amazon.com/api-gateway/)
+
+The Amazon API Gateway is an AWS service for creating, publishing, maintaining, monitoring, and securing APIs at any scale. It handles all the tasks involved in accepting and processing up to hundreds of thousands of concurrent API calls.
