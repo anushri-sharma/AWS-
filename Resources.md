@@ -274,3 +274,58 @@ A Storage Gateway configuration used for backing up data to Amazon S3 while main
 65. [Volume Gateway](https://aws.amazon.com/storagegateway/volume/)
 
 A Storage Gateway configuration that provides iSCSI block storage volumes to on-premises applications, offering both cached and stored modes.
+
+----
+# Module 7 - Databases:
+
+66. [Amazon Relational Database Service (Amazon RDS)](https://aws.amazon.com/rds/)
+
+A relational database service supporting multiple engines like MySQL, PostgreSQL, and Microsoft SQL Server with automated maintenance and backups
+
+67. [Amazon RDS Security](https://aws.amazon.com/rds/features/security/)
+
+Detailed information about security configurations in Amazon RDS
+
+68. [Amazon Aurora](https://aws.amazon.com/rds/aurora/)
+
+A cloud-native database offering superior performance and availability over traditional databases while maintaining MySQL and PostgreSQL compatibility
+
+69. [AWS Database Migration Service (AWS DMS)](https://aws.amazon.com/dms/)
+
+A service that provides seamless database migration between source and target databases while keeping the source database operational
+
+70. [Amazon DynamoDB](https://aws.amazon.com/dynamodb/)
+
+A NoSQL database service providing single-digit millisecond performance at any scale with built-in security
+
+71. [Amazon ElastiCache](https://aws.amazon.com/elasticache/)
+
+An in-memory caching service that supports Redis, Valkey, or Memcached to improve application performance through faster data retrieval
+
+72. [Amazon DocumentDB](https://aws.amazon.com/documentdb/)
+
+A MongoDB-compatible document database service designed for mission-critical workloads with automatic scaling
+
+73. [Amazon Backup](https://aws.amazon.com/backup/)
+
+A centralized service for automating and managing data backups across AWS services and on-premises resources
+
+74. [Amazon Neptune](https://aws.amazon.com/neptune/)
+
+A graph database service optimized for storing and querying highly connected data relationships
+
+75. [What Is a Relational Database?](https://github.com/anushri-sharma/AWS/edit/main/Resources.md)
+
+A structured database using tables with predefined schemas, supporting complex queries and transactions through SQL for consistent data relationships
+
+76. [What Is a NoSQL Database?](https://aws.amazon.com/nosql/)
+
+A nonrelational database offering flexible schemas and high scalability for varied data types, optimized for specific data models and patterns
+
+77. [What Is an In-Memory Caching Service?](https://aws.amazon.com/caching/aws-caching/)
+
+A high-speed data storage layer using RAM instead of disk storage, delivering microsecond latency for frequently accessed data
+
+78. [AWS Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/)
+
+AWS is responsible for security of the cloud (infrastructure, hardware, networking, facilities) while customers are responsible for security in the cloud (data, configuration, access management).
