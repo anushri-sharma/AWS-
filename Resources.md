@@ -231,11 +231,11 @@ Amazon S3 versioning keeps multiple variants of objects, offering recovery from 
 
 S3 buckets are cloud storage containers that securely hold various types of data, allowing convenient access and management through the AWS online infrastructure.
 
-55. [Amazon Elastic File System (Amazon EFS)](opens in a new tab)
+55. [Amazon Elastic File System (Amazon EFS)](https://aws.amazon.com/efs/)
 
 A scalable, fully-managed file storage service that lets multiple AWS resources access shared data simultaneously without capacity planning.
 
-56. [Amazon Elastic File System (Amazon EFS) FAQ](opens in a new tab)
+56. [Amazon Elastic File System (Amazon EFS) FAQ](https://aws.amazon.com/efs/faq/)
 
 Frequently asked questions about Amazon EFS.
 
