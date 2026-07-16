@@ -263,7 +263,7 @@ An Amazon FSx option designed to accelerate workloads by providing fast data acc
 
 A hybrid cloud storage service that provides seamless and secure integration between on-premises environment and AWS cloud storage services.
 
-63. [Amazon S3 File Gateway](opens in a new tab)
+63. [Amazon S3 File Gateway](https://aws.amazon.com/storagegateway/file/s3/)
 
 A Storage Gateway configuration that provides local file access to S3 objects while caching frequently accessed data locally for faster retrieval.
 
