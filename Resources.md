@@ -239,7 +239,7 @@ A scalable, fully-managed file storage service that lets multiple AWS resources 
 
 Frequently asked questions about Amazon EFS.
 
-57. [Amazon FSx](opens in a new tab)
+57. [Amazon FSx](https://aws.amazon.com/fsx/)
 
 A fully managed file storage service that lets you launch and run file systems like Windows File Server, Lustre, NetApp ONTAP, and OpenZFS in the AWS cloud.
 
