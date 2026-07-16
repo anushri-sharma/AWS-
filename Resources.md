@@ -219,7 +219,7 @@ A scalable cloud storage service that can store and retrieve any amount of data 
 
 Frequently asked questions about Amazon S3.
 
-52. [Amazon S3 Storage Classes](opens in a new tab)
+52. [Amazon S3 Storage Classes](https://aws.amazon.com/s3/storage-classes/)
 
 Amazon S3 offers various storage classes, from high-performance frequent access to cost-effective archival options, tailored to different data retrieval needs and budget constraints.
 
