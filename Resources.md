@@ -207,11 +207,11 @@ Frequently asked questions about Amazon EBS.
 
 EBS Snapshots are point-in-time backups of your cloud storage volumes, making it possible to protect data and restore it when needed.
 
-50. [Amazon Data Lifecycle Manager User Guide](opens in a new tab)
+50. [Amazon Data Lifecycle Manager User Guide](https://docs.aws.amazon.com/ebs/latest/userguide/snapshot-lifecycle.html)
 
 A service that streamlines the creation, retention, and deletion of Amazon EBS snapshots.
 
-51. [Amazon Simple Storage Service (Amazon S3)](opens in a new tab)
+51. [Amazon Simple Storage Service (Amazon S3)]()
 
 A scalable cloud storage service that can store and retrieve any amount of data from anywhere on the web.
 
