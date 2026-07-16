@@ -187,3 +187,90 @@ Network Address Translation (NAT) gateway allows instances in a private subnet t
 45. [API Gateway](https://aws.amazon.com/api-gateway/)
 
 The Amazon API Gateway is an AWS service for creating, publishing, maintaining, monitoring, and securing APIs at any scale. It handles all the tasks involved in accepting and processing up to hundreds of thousands of concurrent API calls.
+
+----
+# Module 6 - Storage:
+
+46. [Amazon EC2 Instance Store User Guide](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/InstanceStorage.html)
+
+A temporary storage option that is directly attached to the host computer of an EC2 instance, providing high-performance but non-persistent storage.
+
+47. [Amazon Elastic Block Store (Amazon EBS)](https://aws.amazon.com/ebs/)
+
+A scalable block storage service that provides persistent, high-performance volumes you can attach to your EC2 instances for data storage and applications.
+
+48. [Amazon Elastic Block Store (Amazon EBS) FAQ](opens in a new tab)
+
+Frequently asked questions about Amazon EBS.
+
+49. [Amazon EBS Snapshots User Guide](opens in a new tab)
+
+EBS Snapshots are point-in-time backups of your cloud storage volumes, making it possible to protect data and restore it when needed.
+
+50. [Amazon Data Lifecycle Manager User Guide](opens in a new tab)
+
+A service that streamlines the creation, retention, and deletion of Amazon EBS snapshots.
+
+51. [Amazon Simple Storage Service (Amazon S3)](opens in a new tab)
+
+A scalable cloud storage service that can store and retrieve any amount of data from anywhere on the web.
+
+51. [Amazon Simple Storage Service (Amazon S3) FAQ](opens in a new tab)
+
+Frequently asked questions about Amazon S3.
+
+52. [Amazon S3 Storage Classes](opens in a new tab)
+
+Amazon S3 offers various storage classes, from high-performance frequent access to cost-effective archival options, tailored to different data retrieval needs and budget constraints.
+
+53. [Amazon S3 Versioning User Guide](opens in a new tab)
+
+Amazon S3 versioning keeps multiple variants of objects, offering recovery from unintended deletions or modifications by preserving every update to your files.
+
+54. [Amazon S3 Buckets User Guide](opens in a new tab)
+
+S3 buckets are cloud storage containers that securely hold various types of data, allowing convenient access and management through the AWS online infrastructure.
+
+55. [Amazon Elastic File System (Amazon EFS)](opens in a new tab)
+
+A scalable, fully-managed file storage service that lets multiple AWS resources access shared data simultaneously without capacity planning.
+
+56. [Amazon Elastic File System (Amazon EFS) FAQ](opens in a new tab)
+
+Frequently asked questions about Amazon EFS.
+
+57. [Amazon FSx](opens in a new tab)
+
+A fully managed file storage service that lets you launch and run file systems like Windows File Server, Lustre, NetApp ONTAP, and OpenZFS in the AWS cloud.
+
+58. [Amazon FSx for Windows File Server](opens in a new tab)
+
+An Amazon FSx option providing reliable, high-performance file storage compatible with Windows applications in the AWS Cloud.
+
+59. [Amazon FSx for NetApp ONTAP](opens in a new tab)
+
+An Amazon FSx option providing file storage with advanced data management capabilities and compatibility with both Windows and Linux workloads on AWS.
+
+60. [Amazon FSx for OpenZFS](opens in a new tab)
+
+An Amazon FSx option that provides high-performance, scalable storage using the popular open-source ZFS file system.
+
+61. [Amazon FSx for Lustre](opens in a new tab)
+
+An Amazon FSx option designed to accelerate workloads by providing fast data access for compute-intensive applications in AWS.
+
+62. [AWS Storage Gateway](opens in a new tab)
+
+A hybrid cloud storage service that provides seamless and secure integration between on-premises environment and AWS cloud storage services.
+
+63. [Amazon S3 File Gateway](opens in a new tab)
+
+A Storage Gateway configuration that provides local file access to S3 objects while caching frequently accessed data locally for faster retrieval.
+
+64. [Tape Gateway](opens in a new tab)
+
+A Storage Gateway configuration used for backing up data to Amazon S3 while maintaining compatibility with existing tape-based backup applications.
+
+65. [Volume Gateway](opens in a new tab)
+
+A Storage Gateway configuration that provides iSCSI block storage volumes to on-premises applications, offering both cached and stored modes.
