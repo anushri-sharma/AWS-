@@ -243,7 +243,7 @@ Frequently asked questions about Amazon EFS.
 
 A fully managed file storage service that lets you launch and run file systems like Windows File Server, Lustre, NetApp ONTAP, and OpenZFS in the AWS cloud.
 
-58. [Amazon FSx for Windows File Server](opens in a new tab)
+58. [Amazon FSx for Windows File Server](https://aws.amazon.com/fsx/windows/)
 
 An Amazon FSx option providing reliable, high-performance file storage compatible with Windows applications in the AWS Cloud.
 
