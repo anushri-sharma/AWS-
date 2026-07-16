@@ -255,7 +255,7 @@ An Amazon FSx option providing file storage with advanced data management capabi
 
 An Amazon FSx option that provides high-performance, scalable storage using the popular open-source ZFS file system.
 
-61. [Amazon FSx for Lustre](opens in a new tab)
+61. [Amazon FSx for Lustre](https://aws.amazon.com/fsx/lustre/)
 
 An Amazon FSx option designed to accelerate workloads by providing fast data access for compute-intensive applications in AWS.
 
