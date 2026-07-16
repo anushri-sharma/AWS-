@@ -259,7 +259,7 @@ An Amazon FSx option that provides high-performance, scalable storage using the 
 
 An Amazon FSx option designed to accelerate workloads by providing fast data access for compute-intensive applications in AWS.
 
-62. [AWS Storage Gateway](opens in a new tab)
+62. [AWS Storage Gateway](https://aws.amazon.com/storagegateway/)
 
 A hybrid cloud storage service that provides seamless and secure integration between on-premises environment and AWS cloud storage services.
 
