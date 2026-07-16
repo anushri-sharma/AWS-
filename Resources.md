@@ -211,11 +211,11 @@ EBS Snapshots are point-in-time backups of your cloud storage volumes, making it
 
 A service that streamlines the creation, retention, and deletion of Amazon EBS snapshots.
 
-51. [Amazon Simple Storage Service (Amazon S3)]()
+51. [Amazon Simple Storage Service (Amazon S3)](https://aws.amazon.com/s3/)
 
 A scalable cloud storage service that can store and retrieve any amount of data from anywhere on the web.
 
-51. [Amazon Simple Storage Service (Amazon S3) FAQ](opens in a new tab)
+51. [Amazon Simple Storage Service (Amazon S3) FAQ](https://aws.amazon.com/s3/faqs/)
 
 Frequently asked questions about Amazon S3.
 
