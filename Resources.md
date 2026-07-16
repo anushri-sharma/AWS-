@@ -227,7 +227,7 @@ Amazon S3 offers various storage classes, from high-performance frequent access 
 
 Amazon S3 versioning keeps multiple variants of objects, offering recovery from unintended deletions or modifications by preserving every update to your files.
 
-54. [Amazon S3 Buckets User Guide](opens in a new tab)
+54. [Amazon S3 Buckets User Guide](https://docs.aws.amazon.com/AmazonS3/latest/userguide/creating-buckets-s3.html)
 
 S3 buckets are cloud storage containers that securely hold various types of data, allowing convenient access and management through the AWS online infrastructure.
 
