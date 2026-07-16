@@ -247,7 +247,7 @@ A fully managed file storage service that lets you launch and run file systems l
 
 An Amazon FSx option providing reliable, high-performance file storage compatible with Windows applications in the AWS Cloud.
 
-59. [Amazon FSx for NetApp ONTAP](opens in a new tab)
+59. [Amazon FSx for NetApp ONTAP](https://aws.amazon.com/fsx/netapp-ontap/)
 
 An Amazon FSx option providing file storage with advanced data management capabilities and compatibility with both Windows and Linux workloads on AWS.
 
