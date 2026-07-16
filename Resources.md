@@ -203,7 +203,7 @@ A scalable block storage service that provides persistent, high-performance volu
 
 Frequently asked questions about Amazon EBS.
 
-49. [Amazon EBS Snapshots User Guide](opens in a new tab)
+49. [Amazon EBS Snapshots User Guide](https://docs.aws.amazon.com/ebs/latest/userguide/ebs-snapshots.html)
 
 EBS Snapshots are point-in-time backups of your cloud storage volumes, making it possible to protect data and restore it when needed.
 
