@@ -223,7 +223,7 @@ Frequently asked questions about Amazon S3.
 
 Amazon S3 offers various storage classes, from high-performance frequent access to cost-effective archival options, tailored to different data retrieval needs and budget constraints.
 
-53. [Amazon S3 Versioning User Guide](opens in a new tab)
+53. [Amazon S3 Versioning User Guide](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Versioning.html)
 
 Amazon S3 versioning keeps multiple variants of objects, offering recovery from unintended deletions or modifications by preserving every update to your files.
 
