@@ -251,7 +251,7 @@ An Amazon FSx option providing reliable, high-performance file storage compatibl
 
 An Amazon FSx option providing file storage with advanced data management capabilities and compatibility with both Windows and Linux workloads on AWS.
 
-60. [Amazon FSx for OpenZFS](opens in a new tab)
+60. [Amazon FSx for OpenZFS](https://aws.amazon.com/fsx/openzfs/)
 
 An Amazon FSx option that provides high-performance, scalable storage using the popular open-source ZFS file system.
 
