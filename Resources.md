@@ -267,10 +267,10 @@ A hybrid cloud storage service that provides seamless and secure integration bet
 
 A Storage Gateway configuration that provides local file access to S3 objects while caching frequently accessed data locally for faster retrieval.
 
-64. [Tape Gateway](opens in a new tab)
+64. [Tape Gateway](https://aws.amazon.com/storagegateway/vtl/)
 
 A Storage Gateway configuration used for backing up data to Amazon S3 while maintaining compatibility with existing tape-based backup applications.
 
-65. [Volume Gateway](opens in a new tab)
+65. [Volume Gateway](https://aws.amazon.com/storagegateway/volume/)
 
 A Storage Gateway configuration that provides iSCSI block storage volumes to on-premises applications, offering both cached and stored modes.
