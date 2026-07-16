@@ -199,7 +199,7 @@ A temporary storage option that is directly attached to the host computer of an 
 
 A scalable block storage service that provides persistent, high-performance volumes you can attach to your EC2 instances for data storage and applications.
 
-48. [Amazon Elastic Block Store (Amazon EBS) FAQ](opens in a new tab)
+48. [Amazon Elastic Block Store (Amazon EBS) FAQ](https://aws.amazon.com/ebs/faqs/)
 
 Frequently asked questions about Amazon EBS.
 
