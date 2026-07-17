@@ -9,7 +9,7 @@ You then examined `Amazon S3`, a highly scalable **object storage service** that
 
 # Module 7 Databases:
 
-In this module, we explored the managed relational database capabilities of `Amazon RDS` and Amazon `Aurora`. You learned how `AWS DMS` facilitates seamless **database migrations**, and `DynamoDB` provides insights into NoSQL database solutions for scalable applications.
+In this module, we explored the managed relational database capabilities of `Amazon RDS` and `Amazon Aurora`. You learned how `AWS DMS` facilitates seamless **database migrations**, and `DynamoDB` provides insights into NoSQL database solutions for scalable applications.
 
 We covered the in-memory caching capabilities of ElastiCache and the MongoDB-compatible document database features of Amazon DocumentDB. We examined the comprehensive data protection strategy across AWS services offered by AWS Backup. And finally, we concluded with the powerful graph database capabilities of Neptune for complex relationship queries.
 
