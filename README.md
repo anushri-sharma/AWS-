@@ -15,7 +15,17 @@ We covered the in-memory caching capabilities of ElastiCache and the MongoDB-com
 
 ----
 
-# Module 8. AI/ML & Data Analytics
+# Module 8 AI/ML & Data Analytics:
 
 `AI/ML` and data analytics are two fields that use high-quality data to analyze past events and innovate for the future. In the previous lessons, you learned how `AWS AI/ML` solutions help to predict future trends and automate processes. And you learned how AWS solutions can be used to analyze historical trends and develop insights from data.
+
+---
+
+# Module 9 Security:
+
+Building and maintaining a secure environment in the cloud is an important responsibility. AWS shares this responsibility with its customers. In the previous lessons, you learned about important security concepts, mechanisms, and services that help protect your cloud resources.
+
+----
+
+
 
