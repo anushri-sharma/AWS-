@@ -99,6 +99,7 @@
 
 -------
 # Module 9 - Security
+
 25. [AWS Identity and Access Management (IAM)](https://aws.amazon.com/iam/)
 
 - Securely manage identities and access to AWS services and resources.
@@ -150,6 +151,8 @@
 
 - Aggregate security findings and organize them into actionable insights.
 ----------
+
+# Module 10 - Monitoring, Compliance, and Governance
 
 38. [Amazon CloudWatch](https://aws.amazon.com/cloudwatch/)
 
