@@ -60,5 +60,10 @@ Building and maintaining a secure environment in the cloud is an important respo
 
 ----
 
+# Module 10 - Monitoring, Compliance, and Governance
 
+In this module, you learned the progression of securing, monitoring, auditing, compliance, and governance in the AWS Cloud. You identified services that aid in monitoring with metrics, alarms, and dashboards. You also learned about services for auditing, such as CloudTrail, and compliance, such as AWS Artifact. You reviewed several other governance and compliance services and identified the role of AWS Trusted Advisor in continuously evaluating for cost, security, performance, and more.
 
+-----
+
+# Module 11 - 
