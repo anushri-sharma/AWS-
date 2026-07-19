@@ -66,4 +66,10 @@ In this module, you learned the progression of securing, monitoring, auditing, c
 
 -----
 
-# Module 11 - 
+# Module 11 - Pricing and Support
+
+In the last few lessons, you learned about AWS pricing concepts and AWS support options. You covered fundamental pricing concepts and services. You also learned the difference between AWS Support Plans and other technical assistance resources. Finally, you applied these concepts to a real-world application by thinking about how to optimize for cost in the AWS Cloud.
+
+-----
+
+# Module 12 - 
