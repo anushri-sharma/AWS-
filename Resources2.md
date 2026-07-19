@@ -201,3 +201,71 @@
 49. [AWS Identity and Access Management Access Analyzer](https://aws.amazon.com/iam/access-analyzer/)
 
 - IAM Access Analyzer provides capabilities to set, verify, and refine security permissions to achieve least privilege security standards.
+
+---------
+
+# Module 11 - Pricing and Support
+
+50. [Amazon S3 Pricing](https://aws.amazon.com/s3/pricing/?nc=sn&loc=4)
+
+- The Amazon S3 Pricing page outlines costs for storage, requests, data transfer, and additional features, along with details on AWS Free Tier for new customers.
+
+51. [Amazon EC2 On-Demand Pricing](https://aws.amazon.com/ec2/pricing/on-demand/)
+
+- The Amazon EC2 On-Demand Pricing page details the costs for EC2 instances, including pricing for instance types, data transfer, and additional features with no long-term commitments.
+
+52. [What is AWS Organizations?](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_introduction.html)
+
+- The AWS Organizations User Guide explains how to centrally manage multiple AWS accounts, automate account creation, apply governance policies, and simplify billing and resource sharing.
+
+53. [AWS Billing Console](https://aws.amazon.com/aws-cost-management/aws-billing/)
+
+- The AWS Billing Console provides a centralized platform for managing and understanding AWS charges, offering tools to view and download invoices, monitor discounts and credits, and analyze spending trends across multiple accounts.
+
+54. [AWS Budgets](https://aws.amazon.com/aws-cost-management/aws-budgets/)
+
+- AWS Budgets provides tools to create custom budgets for tracking and managing AWS costs, usage, and Reserved Instance or Savings Plan use. It also helps prevent overspending by offering alerts and automated actions.
+
+55. [AWS Cost Explorer](https://aws.amazon.com/aws-cost-management/aws-cost-explorer/)
+
+- AWS Cost Explorer provides tools to visualize, analyze, and manage AWS costs and usage, with customizable reports and cost forecasting to optimize cloud spending.
+
+56. [AWS Pricing Calculator Documentation](https://docs.aws.amazon.com/pricing-calculator/)
+
+- The AWS Pricing Calculator is a free, web-based tool that helps customers create detailed cost estimates for AWS services, so they can plan and manage their cloud expenditures effectively.
+
+57. [AWS re:Post](https://repost.aws/)
+
+- AWS re:Post is a community-driven, question-and-answer platform provided where users can seek help, share knowledge, and find solutions related to AWS services and technologies.
+
+58. [AWS Trust and Safety Center](https://repost.aws/aws-trust-and-safety)
+
+- The AWS Trust and Safety Center offers guidance on reporting abuse, protecting applications, and following best practices for digital messaging on AWS.
+
+59. [AWS Professional Services](https://aws.amazon.com/professional-services/)
+
+- The AWS Professional Services page highlights how AWS experts help organizations accelerate cloud adoption with tailored guidance across industries and technologies.
+
+60. [Welcome to AWS Documentation](https://docs.aws.amazon.com/)
+
+- The AWS Documentation page provides comprehensive technical resources, including guides, API references, tutorials, and best practices across AWS services.
+
+61. [AWS Marketplace](https://aws.amazon.com/marketplace)
+
+- The AWS Marketplace is a digital catalog where customers can discover, purchase, and manage third-party software, data, and services with flexible pricing options.
+
+62. [Engage with AWS Partners](https://partners.amazonaws.com/)
+
+- The AWS Partners page helps you discover how AWS Partners can help you accelerate your cloud journey.
+
+63. [Funding Benefits for AWS Partners](https://aws.amazon.com/partners/funding/)
+
+- The AWS Partner Funding page outlines funding benefits, including credits and discounts, to support AWS partners in developing, marketing, and selling solutions based in AWS.
+
+64. [AWS Partner Events](https://aws.amazon.com/events/aws-partner-events/?events-master-all.sort-by=item.additionalFields.startDateTime&events-master-all.sort-order=asc&awsf.events-master-type=*all&awsf.events-master-tech-category=*all&awsf.events-master-location=*all)
+
+- The AWS Partner Events page lists upcoming webinars, workshops, and in-person events for IT professionals, developers, and business leaders, with options to filter by date, location, and topic.
+
+65. [AWS Partner Training and Certification](https://aws.amazon.com/partners/training/?nc2=sb_pt_pto)
+
+- The AWS Partner Training page offers courses, certifications, and resources to help AWS Partners build cloud skills across various roles and enhance their expertise.
