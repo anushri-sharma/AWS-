@@ -77,3 +77,7 @@ In the last few lessons, you learned about AWS pricing concepts and AWS support 
 In this migration module, you identified the AWS Cloud Adoption Framework (AWS CAF), the seven migration strategies, and migration services to migrate applications, databases, and data.
 
 ------
+
+# Module 13 - Well-Architected Solutions
+
+In this module, you explored AWS purpose-built services for development, business, and customer support. You examined the AWS Well-Architected Framework and learned about its six pillars: Operational Excellence, Security, Reliability, Performance Efficiency, Cost Optimization, and Sustainability. You also discovered how the AWS Well-Architected Tool helps assess and enhance workloads, so you can align with best practices. Finally, you learned about serverless architectures, highlighting how services like API Gateway, Lambda, and DynamoDB provide scalable, efficient solutions with minimal infrastructure.
