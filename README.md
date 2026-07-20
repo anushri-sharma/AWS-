@@ -72,4 +72,8 @@ In the last few lessons, you learned about AWS pricing concepts and AWS support 
 
 -----
 
-# Module 12 - 
+# Module 12 - Migrating to the AWS Cloud
+
+In this migration module, you identified the AWS Cloud Adoption Framework (AWS CAF), the seven migration strategies, and migration services to migrate applications, databases, and data.
+
+------
