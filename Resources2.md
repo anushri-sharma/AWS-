@@ -269,3 +269,80 @@
 65. [AWS Partner Training and Certification](https://aws.amazon.com/partners/training/?nc2=sb_pt_pto)
 
 - The AWS Partner Training page offers courses, certifications, and resources to help AWS Partners build cloud skills across various roles and enhance their expertise.
+------
+
+# Module 12 - Migrating to the AWS Cloud
+
+66. [Three Phases of Migration](https://docs.aws.amazon.com/prescriptive-guidance/latest/strategy-migration/overview.html)
+
+- In performing a large-scale migration, there are typically three phases: assess, mobilize, and the last phase, migrate and modernize.
+
+67. [AWS Cloud Adoption Framework](https://aws.amazon.com/cloud-adoption-framework/)
+
+- AWS CAF is a framework that brings AWS experience and best practices to companies preparing to migrate to the AWS Cloud. The framework provides tools to help accelerate the migration journey, organize resources, and align management during the transition.
+
+68. [Seven Migration Strategies (7 Rs)](https://docs.aws.amazon.com/prescriptive-guidance/latest/large-migration-guide/migration-strategies.html)
+
+- When migrating to the cloud, there are seven common migration strategies that customers can choose to implement. They are relocate, rehost, replatform, refactor, repurchase, retain, and retire.
+
+69. [Migration Evaluator](https://aws.amazon.com/migration-evaluator/)
+
+- The Migration Evaluator is a migration assessment service that helps you create a business case for AWS Cloud planning and migration. It does this with a data-driven approach, analyzing your current state and target state, and developing a migration readiness plan with projected cloud costs.
+
+70. [AWS Application Discovery Service](https://aws.amazon.com/transform/)
+
+- Application Discovery Service discovers on-premises server inventory and connections. It gathers configuration, performance, and connection details for both servers and databases to create a detailed migration plan.
+
+71. [AWS Application Migration Service](https://aws.amazon.com/application-migration-service/)
+
+- Application Migration Service is a tool to migrate and improve your on-premises and cloud-based applications. It helps customers simplify, expedite, and reduce the cost of migrating and modernizing applications.
+
+72. [AWS Migration Hub](https://aws.amazon.com/transform/)
+
+- Migration Hub is a centralized hub to take you from discovery to assessment, planning, and implementation of your migration. It provides tools, guidance, and automated recommendations to collaborate with your team and track your migration.
+
+73. [AWS Database Migration Service (AWS DMS)](https://aws.amazon.com/dms/?nc=sn&loc=1)
+
+- AWS DMS makes it possible to quickly and securely migrate databases to the AWS Cloud. It provides a way to plan, assess, convert, and migrate databases even with data warehouses in one central tool.
+
+74. [AWS Schema Conversion Tool (AWS SCT)](https://docs.aws.amazon.com/SchemaConversionTool/latest/userguide/CHAP_Welcome.html)
+
+- AWS SCT is a service that makes it possible to convert database schemas and code objects (like stored procedures, views, and functions) from one database engine to another.
+
+75. [AWS DataSync](https://aws.amazon.com/datasync)
+
+- DataSync is specifically designed for automating and accelerating secure data migrations. DataSync manages data movement workloads with bandwidth throttling, migration scheduling, task filtering, and task reporting. It also provides rapid data replication.
+
+76. [AWS Transfer Family](https://aws.amazon.com/aws-transfer-family/)
+
+- Transfer family makes it possible to seamlessly manage and share data with simple, secure, and scalable file transfers. This service provides fully managed support for secure file transfers over SFTP, FTPS, FTP, and others. It helps you transfer files directly into and out of AWS storage services like Amazon S3 and Amazon EFS.
+
+77. [AWS Direct Connect](https://aws.amazon.com/directconnect/)
+
+- Direct Connect is a cloud service that you can use to establish a private, dedicated network connection between your on-premises network and AWS.
+
+78. [AWS Snow Family](https://docs.aws.amazon.com/snowball/latest/developer-guide/device-differences.html)
+
+- AWS Snowball Edge Storage Optimized devices are a great solution for offline data migration where connecting to the internet might not be an option. Snowball Edge Storage Optimized devices deliver high performance storage, and make it possible to simplify multi-petabyte data migrations from on-premises locations to AWS.
+-----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
