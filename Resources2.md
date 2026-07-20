@@ -326,7 +326,71 @@
 - AWS Snowball Edge Storage Optimized devices are a great solution for offline data migration where connecting to the internet might not be an option. Snowball Edge Storage Optimized devices deliver high performance storage, and make it possible to simplify multi-petabyte data migrations from on-premises locations to AWS.
 -----
 
+# 
 
+79. [AWS CodeBuild](https://aws.amazon.com/codebuild/)
+
+- Build scripts for compiling, testing, and packaging your code.
+
+80. [AWS CodePipeline](https://aws.amazon.com/codepipeline/)
+
+- Automate and monitor CI/CD pipelines.
+
+81. [AWS X-Ray](https://aws.amazon.com/cloudwatch/features/application-observability-apm/)
+
+- Monitor and debug applications.
+
+82. [AWS AppSync](https://aws.amazon.com/appsync/)
+
+- Connect applications to multiple data sources using a single GraphQL API request.
+
+83. [AWS Amplify](https://aws.amazon.com/amplify/)
+
+- Quickly develop, deploy, and manage full-stack applications on AWS.
+
+84. [Amazon Connect](https://aws.amazon.com/products/connect/customer/)
+
+- Manage customer service operations with artificial intelligence.
+
+85. [Amazon SES](https://aws.amazon.com/ses/)
+
+- Use automation to send large volumes of transactional and marketing emails.
+
+86. [Amazon AppStream 2.0](https://aws.amazon.com/workspaces/applications/)
+
+- Stream cloud-based and desktop applications to users on compatible devices.
+
+87. [Amazon WorkSpaces](https://aws.amazon.com/workspaces/desktop-as-a-service/)
+
+- Provide employees with secure virtual desktops.
+
+88. [Amazon WorkSpaces Secure Browser](https://aws.amazon.com/workspaces/secure-browser/)
+
+- Provide employees with secure access to web-based applications and sites.
+
+89. [AWS IoT Core](https://aws.amazon.com/iot-core/)
+
+- Securely connect devices with cloud applications to create IoT solutions.
+
+90. [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
+
+- The AWS Well-Architected Framework provides a structured approach to designing and operating secure, high performing, resilient, and efficient infrastructure for applications and workloads on AWS, guided by six key pillars.
+
+91. [AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
+
+- This website is the official documentation for the AWS Well-Architected Framework.
+
+92. [What is AWS Well-Architected Tool?](https://docs.aws.amazon.com/wellarchitected/latest/userguide/intro.html)
+
+- The AWS Well-Architected Tool provides a consistent process for measuring your architecture using AWS best practices.
+
+93. [AWS Architecture Center](https://aws.amazon.com/architecture/?cards-all.sort-by=item.additionalFields.sortDate&cards-all.sort-order=desc&awsf.content-type=*all&awsf.methodology=*all&awsf.tech-category=*all&awsf.industries=*all&awsf.business-category=*all)
+
+- The AWS Architecture Center provides reference architectures and best practices for building secure, efficient, and scalable solutions on AWS.
+
+94. [AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/)
+
+- The AWS Architecture Blog shares technical insights and best practices for building effective solutions on AWS.
 
 
 
