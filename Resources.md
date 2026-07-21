@@ -13,6 +13,7 @@
 
 4. Instance types are named based on their instance family and instance size. For information about these naming conventions, refer to [Amazon EC2 instance type naming conventions](https://docs.aws.amazon.com/ec2/latest/instancetypes/instance-type-names.html).
 
+<img width="1920" height="1180" alt="image" src="https://github.com/user-attachments/assets/fd9796d9-07d5-452c-a7c3-6d99acba206d" />
 
 # Module 2 - Compute:
 
