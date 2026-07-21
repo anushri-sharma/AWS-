@@ -15,6 +15,8 @@
 
 <img width="1920" height="1180" alt="image" src="https://github.com/user-attachments/assets/fd9796d9-07d5-452c-a7c3-6d99acba206d" />
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f4d4d948-2adc-406b-91cb-edd8d738e3a1" />
+
 # Module 2 - Compute:
 
 5. [Compute on AWS](https://aws.amazon.com/products/compute/)
