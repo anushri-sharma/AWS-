@@ -1,5 +1,5 @@
 
-# What is orchestration?
+# [What is orchestration?](https://www.redhat.com/en/topics/automation/what-is-orchestration#what-is-orchestration)
 Orchestration is the coordinated execution of multiple IT automation tasks or processes. Orchestration is usually applied across multiple computer systems, applications, and services to ensure that deployment, configuration management, and other processes are performed in the proper sequence. 
 
 **Automation and orchestration are distinct**, but related concepts. 
@@ -43,6 +43,11 @@ A `workflow` for **deploying a server** might include the following steps:
 - Create necessary user accounts with appropriate permissions.
 - Connect the system to an external database.
 
+# The benefits of orchestration
+Once IT teams build workflows that orchestrate tasks across every necessary system and tool, they can then choose the workflow with the end result they want—like build a new server or update an application—and it will automatically perform each step, in the proper order, to produce the same result every time. 
+
+Orchestration also follows and reinforces a DevOps strategy. For example, with a DevOps approach to a CI/CD pipeline, when a developer builds or alters an application’s container image, that change will trigger a brand new image-build and update the clusters that are using it for production. Using an orchestration solution, IT teams can build a workflow so that a code change will automatically launch testing in a User Acceptance Testing (UAT) environment and deploy the application—so that a single update launches a sequence of automated tasks that conclude with the updated application in production. 
+
 
 
 # What is Kubernetes?
@@ -72,7 +77,22 @@ Serverless Kubernetes is a cloud-native development model that lets developers r
 # What’s the difference between Kubernetes and Red Hat OpenShift?
 The primary difference between Kubernetes and Red Hat OpenShift is that Kubernetes is an open source container orchestration engine, while Red Hat OpenShift is a complete, enterprise application platform built using Kubernetes as its foundation.
 
+-----
 
+# [What is container orchestration?](https://www.redhat.com/en/topics/containers/what-is-container-orchestration#:%7E:text=Kubernetes%20orchestration%20allows%20you%20to,deploying%20and%20scaling%20containerized%20applications.)
+
+
+# What is container orchestration?
+Container orchestration is the process of automating the deployment, management, scaling, and networking of containers throughout their lifecycle, making it possible to deploy software consistently across many different environments at scale.
+
+[Containers](https://www.redhat.com/en/topics/containers), which package an application and its runtime environment together in a self-contained unit, are foundational to [cloud native application](https://www.redhat.com/en/topics/cloud-native-apps) development. Container orchestration is especially important for enterprises that need to deploy and manage hundreds or thousands of containers and hosts. Most container orchestration solutions are built on [Kubernetes](https://www.redhat.com/en/topics/containers/what-is-kubernetes), a widely adopted open source platform. 
+
+### Highlights
+- Container orchestration is the process of automating the deployment, management, scaling, and networking of containers throughout their lifecycle.
+- Container orchestration platforms, such as Kubernetes, create a smooth, self-managing operation.
+- Orchestration coordinates microservices in separate containers.
+- Kubernetes eliminates many of the manual processes involved in deploying and scaling containerized applications.
+- Red Hat creates essential tools for securing, simplifying, and automatically updating your container infrastructure.
 
 
 
