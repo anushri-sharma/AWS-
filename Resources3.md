@@ -22,6 +22,29 @@ Depending on the use case, orchestration is often used to refer to some specific
 
 **Jenkins** is used to orchestrate development pipelines; it executes workflows for `building`, `testing`, and `pushing code to a repository`. Both of these processes can be integrated into a larger automated workflow by a comprehensive orchestration solution that can coordinate tasks across third-party systems.
 
+> Let’s look at a few example orchestration workflows for some common IT use cases. 
+
+A `workflow` for **deploying a server** might include the following steps:
+
+- Deploy the server.
+- Configure the server.
+- Assign storage capacity.
+- Grab an application from a repository, install it, and configure it.  
+- Talk to the firewall or load balancer to make sure it’s configured to allow this new system into its pool and policies.
+- Update the company ITSM system to confirm that this server has been successfully deployed.
+-----
+
+# A workflow for provisioning a cloud instance might look like this:
+
+- Provision the instance.
+- Configure the operating system.
+- Log a ticket in an ITSM system to inform it that the system is active.
+- Update the firewall.
+- Create necessary user accounts with appropriate permissions.
+- Connect the system to an external database.
+
+
+
 # What is Kubernetes?
 Kubernetes is an open source container orchestration platform that automates the deployment, management, and scaling of containerized applications. It acts as an operating engine for cloud infrastructure, eliminating the manual steps required to configure and run applications or allocate resources.
 
