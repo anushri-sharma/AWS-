@@ -94,5 +94,7 @@ Container orchestration is the process of automating the deployment, management,
 - Kubernetes eliminates many of the manual processes involved in deploying and scaling containerized applications.
 - Red Hat creates essential tools for securing, simplifying, and automatically updating your container infrastructure.
 
+# [Python Code Structure](https://docs.python-guide.org/writing/structure/)
+
 
 
